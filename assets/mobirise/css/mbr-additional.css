@@ -1093,6 +1093,61 @@ a {
 .cid-sAU3Kihlen img {
   width: 100%;
 }
+.cid-sCTAceBFcq {
+  padding-top: 2rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-sCTAceBFcq .number-wrap {
+  color: #555555;
+  text-align: center;
+}
+.cid-sCTAceBFcq .number {
+  color: #435f9e;
+}
+.cid-sCTAceBFcq .period {
+  display: block;
+}
+.cid-sCTAceBFcq .dot {
+  display: none;
+}
+@media (max-width: 767px) {
+  .cid-sCTAceBFcq .period {
+    font-size: 0.8rem;
+  }
+}
+.cid-sCTAceBFcq .btn {
+  height: 100%;
+  margin: 0;
+}
+.cid-sCTAceBFcq .mbr-section-btn {
+  margin-bottom: 1.2rem;
+}
+.cid-sCTAceBFcq .icons-menu .soc-item {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.cid-sCTAceBFcq .icons-menu .soc-item .mbr-iconfont {
+  font-size: 2rem;
+  display: flex;
+  border-radius: 50%;
+  text-align: center;
+  color: #6592e6;
+  border: 2px solid #6592e6;
+  justify-content: center;
+  align-content: center;
+  transition: all 0.3s;
+}
+.cid-sCTAceBFcq .icons-menu .soc-item .mbr-iconfont:before {
+  padding: 0.6rem;
+}
+.cid-sCTAceBFcq .icons-menu .soc-item .mbr-iconfont:hover {
+  background-color: #6592e6;
+  color: #ffffff;
+}
+.cid-sCTAceBFcq H3 {
+  color: #435f9e;
+}
 .cid-sAU2NbZNsW {
   padding-top: 2rem;
   padding-bottom: 0rem;
