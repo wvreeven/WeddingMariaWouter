@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "alojamiento.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -55,9 +55,7 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false,
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "gdpr": false
   },
   "pages": {
     "index.html": {
