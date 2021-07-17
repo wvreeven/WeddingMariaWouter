@@ -6525,6 +6525,47 @@ a {
 .cid-sCTNU10F3k .panel-text {
   color: #435f9e;
 }
+.cid-sDsJiYqFip {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-sDsJiYqFip .mbr-iconfont {
+  font-size: 1.4rem !important;
+  font-family: 'Moririse2' !important;
+  color: #435f9e;
+  margin-left: 1rem;
+}
+.cid-sDsJiYqFip .panel-group {
+  border: none;
+}
+.cid-sDsJiYqFip .panel-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+@media (max-width: 767px) {
+  .cid-sDsJiYqFip .panel-body,
+  .cid-sDsJiYqFip .card-header {
+    padding: 1rem 0;
+  }
+}
+@media (min-width: 768px) {
+  .cid-sDsJiYqFip .panel-body,
+  .cid-sDsJiYqFip .card-header {
+    padding: 1rem 0;
+  }
+}
+.cid-sDsJiYqFip .panel-title-edit {
+  color: #435f9e;
+}
+.cid-sDsJiYqFip .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
+}
+.cid-sDsJiYqFip .panel-text {
+  color: #435f9e;
+}
 .cid-sCTNU1gCOi {
   padding-top: 0rem;
   padding-bottom: 0rem;
